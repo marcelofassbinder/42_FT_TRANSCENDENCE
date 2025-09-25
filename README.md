@@ -8,7 +8,7 @@
 
 <div align=center>
  
-![pong_demonstration](media/ft_transcendence.mov.gif "cub3d")
+![pong_demonstration](media/ft_transcendence.mov.gif "ft_transcendence")
 
 </div>
 
