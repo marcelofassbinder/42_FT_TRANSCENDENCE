@@ -9,7 +9,7 @@
 <div align=center>
 <br />
  
-![pong_demonstration](media/ft_transcendence.mov.gif "ft_transcendence")
+![pong_demonstration](media/pong.mov.gif "ft_transcendence")
 
 </div>
 
@@ -21,18 +21,24 @@
 - **Infrastructure:** Nginx as a reverse proxy
 
 # About ✍
- Sendo o ultimo projeto do curso da 42, o ft_transcendence representa mais que o fim de um percurso, mostrando o quanto evoluimos desde o inicio da jornada, o quanto nos tornamos capazes de aprender e dominar tecnologias antes nao conhecidas para resolver problemas, mostrando a nossa capacidade de adaptacao frente aos desafios. Portanto, tendo toda a base do Common Core em C, C++ e Shell... agora exploramos o mundo do Web Development, com tecnologias como Typescript, Node.js e frameworks como Fastify e TailwindCSS.
- A parte obrigatoria do projeto se baseia no desenvolvimento de um website sendo um Single Page Application (SPA), onde o usuario seja capaz de jogar Pong contra outro jogador ou em modo torneio. Tambem deve existir um sistema de registro e autenticação de usuarios, sendo protegido de SQL Injections e XSS attacks. Isso tudo nos dá 25% do projeto. A partir disso, podemos escolher entre diversos modulos disponiveis, onde cada major module vale 10 pontos, e os minors, 5. Um mínimo de 7 majors é required para completar o projeto. Os modulos escolhidos estao descritos a seguir.
+As the final project of the 42 curriculum, ft_transcendence represents more than just the end of a journey. It showcases how much we have grown since the beginning, proving our ability to learn, adapt, and master new technologies to solve real-world problems.  
+While our foundation was built on C, C++, and Shell, this project pushed us into the world of Web Development with tools like TypeScript, Node.js, Fastify, and TailwindCSS.  
+The mandatory part of the project required us to build a Single Page Application (SPA) where users can play Pong in different modes, register accounts, and authenticate securely against common threats such as SQL injections and XSS attacks. Beyond this base, we expanded the project by implementing additional major and minor modules, each bringing new challenges and opportunities to explore. They are all described below.
 
- # Modules 
- ## Web
- ### MAJOR - Use a framework to build the back-end
- Fastify com Node.js foi utilizado para a contruçao do back-end
- ### MINOR - Use a framework or toolkit to build the front-end
- TailwindCSS em adiçao ao TypeScript foi utilizado no front end
- ### MINOR - Use a database for the backend - and more
- SQLite foi a base de dados, com suporte de Prisma ORM para secure and efficient data management 
- ## User Management
- ###  MAJOR: Standard user management, authentication and users across tournaments
- Users can register, login... 
- 
+ ### Major Modules
+ - **WEB:** Use a framework to build the back-end
+ - **USER MANAGEMENT:** Standard user management, authentication and users across tournaments
+ - **USER MANAGEMENT:** Implement remote authentication
+ - **GAMEPLAY AND USER EXPERIENCE:** Remote players
+ - **AI-ALGO:** Introduce an AI opponent
+ - **CYBERSECURITY:** Implement Two-Factor Authentication (2FA) and JWT.
+
+### Minor Modules
+- **WEB:** Use a framework or toolkit to build the front-end
+- **WEB:** Use a database for the backend - and more
+- **GAMEPLAY AND USER EXPERIENCE:** Game customization options
+- **AI-ALGO:** User and game stats dashboards
+- **ACCESSIBILITY:** Expanding browser compatibility
+- **ACCESSIBILITY:** Multiple language support
+
+ # Screenshots 📸
