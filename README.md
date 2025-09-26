@@ -7,6 +7,7 @@
 </div>
 
 <div align=center>
+<br />
  
 ![pong_demonstration](media/ft_transcendence.mov.gif "ft_transcendence")
 
@@ -25,4 +26,13 @@
 
  # Modules 
  ## Web
- ### Use a framework or toolkit to build the front-end
+ ### MAJOR - Use a framework to build the back-end
+ Fastify com Node.js foi utilizado para a contruçao do back-end
+ ### MINOR - Use a framework or toolkit to build the front-end
+ TailwindCSS em adiçao ao TypeScript foi utilizado no front end
+ ### MINOR - Use a database for the backend - and more
+ SQLite foi a base de dados, com suporte de Prisma ORM para secure and efficient data management 
+ ## User Management
+ ###  MAJOR: Standard user management, authentication and users across tournaments
+ Users can register, login... 
+ 
